@@ -1,0 +1,4 @@
+mouse - draw / delete
+1 / 2 / 3 - change pen
+space - start
+esc - restart
